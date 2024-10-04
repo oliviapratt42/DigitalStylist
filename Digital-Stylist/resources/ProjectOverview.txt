@@ -1,0 +1,5 @@
+Goals: 
+- designify logic
+- database organization and construction 
+- variable input for greeting 
+- try to integrate header 
